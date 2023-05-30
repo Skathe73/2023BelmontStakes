@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Belmont Stakes 2023 Probability", "Belmont Stakes 2023 Probability\Belmont Stakes 2023 Probability.csproj", "{EBDB74F2-734B-40A7-BFDC-B795328DCC48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBDB74F2-734B-40A7-BFDC-B795328DCC48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDB74F2-734B-40A7-BFDC-B795328DCC48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBDB74F2-734B-40A7-BFDC-B795328DCC48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBDB74F2-734B-40A7-BFDC-B795328DCC48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2BB3209-A7AC-478D-B54D-4A4C3DBE0BD1}
+	EndGlobalSection
+EndGlobal

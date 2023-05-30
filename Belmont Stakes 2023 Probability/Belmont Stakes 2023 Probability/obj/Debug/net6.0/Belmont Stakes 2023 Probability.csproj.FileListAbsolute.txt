@@ -1,0 +1,17 @@
+C:\Users\wilso\source\repos\Belmont Stakes 2023 Probability\Belmont Stakes 2023 Probability\bin\Debug\net6.0\Belmont Stakes 2023 Probability.exe
+C:\Users\wilso\source\repos\Belmont Stakes 2023 Probability\Belmont Stakes 2023 Probability\bin\Debug\net6.0\Belmont Stakes 2023 Probability.deps.json
+C:\Users\wilso\source\repos\Belmont Stakes 2023 Probability\Belmont Stakes 2023 Probability\bin\Debug\net6.0\Belmont Stakes 2023 Probability.runtimeconfig.json
+C:\Users\wilso\source\repos\Belmont Stakes 2023 Probability\Belmont Stakes 2023 Probability\bin\Debug\net6.0\Belmont Stakes 2023 Probability.dll
+C:\Users\wilso\source\repos\Belmont Stakes 2023 Probability\Belmont Stakes 2023 Probability\bin\Debug\net6.0\Belmont Stakes 2023 Probability.pdb
+C:\Users\wilso\source\repos\Belmont Stakes 2023 Probability\Belmont Stakes 2023 Probability\bin\Debug\net6.0\MathNet.Numerics.dll
+C:\Users\wilso\source\repos\Belmont Stakes 2023 Probability\Belmont Stakes 2023 Probability\obj\Debug\net6.0\Belmont Stakes 2023 Probability.csproj.AssemblyReference.cache
+C:\Users\wilso\source\repos\Belmont Stakes 2023 Probability\Belmont Stakes 2023 Probability\obj\Debug\net6.0\Belmont Stakes 2023 Probability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilso\source\repos\Belmont Stakes 2023 Probability\Belmont Stakes 2023 Probability\obj\Debug\net6.0\Belmont Stakes 2023 Probability.AssemblyInfoInputs.cache
+C:\Users\wilso\source\repos\Belmont Stakes 2023 Probability\Belmont Stakes 2023 Probability\obj\Debug\net6.0\Belmont Stakes 2023 Probability.AssemblyInfo.cs
+C:\Users\wilso\source\repos\Belmont Stakes 2023 Probability\Belmont Stakes 2023 Probability\obj\Debug\net6.0\Belmont Stakes 2023 Probability.csproj.CoreCompileInputs.cache
+C:\Users\wilso\source\repos\Belmont Stakes 2023 Probability\Belmont Stakes 2023 Probability\obj\Debug\net6.0\Belmont Stakes 2023 Probability.csproj.CopyComplete
+C:\Users\wilso\source\repos\Belmont Stakes 2023 Probability\Belmont Stakes 2023 Probability\obj\Debug\net6.0\Belmont Stakes 2023 Probability.dll
+C:\Users\wilso\source\repos\Belmont Stakes 2023 Probability\Belmont Stakes 2023 Probability\obj\Debug\net6.0\refint\Belmont Stakes 2023 Probability.dll
+C:\Users\wilso\source\repos\Belmont Stakes 2023 Probability\Belmont Stakes 2023 Probability\obj\Debug\net6.0\Belmont Stakes 2023 Probability.pdb
+C:\Users\wilso\source\repos\Belmont Stakes 2023 Probability\Belmont Stakes 2023 Probability\obj\Debug\net6.0\Belmont Stakes 2023 Probability.genruntimeconfig.cache
+C:\Users\wilso\source\repos\Belmont Stakes 2023 Probability\Belmont Stakes 2023 Probability\obj\Debug\net6.0\ref\Belmont Stakes 2023 Probability.dll

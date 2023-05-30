@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xqZGGFnzAxUJrSnSAn+F3i6ntLC7io2Spg2Lp7oe9dTg3HLX21suS1ohmZxipZT7Q2Rhobupb/CNoKX/Nj3ONQ==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\2023BelmontStakes\\Belmont Stakes 2023 Probability\\Belmont Stakes 2023 Probability\\Belmont Stakes 2023 Probability.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wilso\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
